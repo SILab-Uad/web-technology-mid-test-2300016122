@@ -4,13 +4,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #e0e7ff; /* Background color */
+    box-shadow: #2e8a75;
+    background-image: linear-gradient(to right, rgb(91, 107, 199) , rgb(190, 82, 129)); /* Background color */
 }
 
 .container {
     text-align: center;
     padding: 30px;
-    background-color: #ffffff; /* Background color for container */
+    background-color: #b896eb; /* Background color for container */
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     width: 90%;
@@ -25,3 +26,13 @@ h1 {
 }
 
 /* Add more styles here as needed */
+button{
+    background-color: rgb(151, 123, 154);
+    box-shadow: #4a4a4a;
+    padding: 9px 15px;
+    font-size: 16px;
+    
+    
+
+}
+
